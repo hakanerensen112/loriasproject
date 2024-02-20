@@ -1,0 +1,19 @@
+{
+  "name": "discord.js-komutsuz-altyapi",
+  "version": "1.0.0",
+  "main": "codare.js",
+  "description": "Codare-komutsuz-altyapi",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.14.0"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "CodAre"
+  ]
+}
